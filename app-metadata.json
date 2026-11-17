@@ -1,0 +1,13 @@
+{
+  "name": "GameAP",
+  "source": "https://gameap.com/",
+  "docker_image": "gameap/gameap:sha-8241180",
+  "version": "sha-8241180",
+  "repository": "https://github.com/waskevin/tnas-app-gameap",
+  "architectures": [
+    "linux/amd64",
+    "linux/arm64"
+  ],
+  "description": "GameAP container application prepared for TerraMaster TOS",
+  "submission_status": "not_submitted"
+}
