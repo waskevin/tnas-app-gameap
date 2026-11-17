@@ -1,9 +1,6 @@
 services:
   gameap:
-    image: 
-gameap/gameap
-:
-sha-8241180
+    image: gameap/gameap:sha-8241180
     restart: unless-stopped
     environment:
       TZ: Asia/Shanghai
